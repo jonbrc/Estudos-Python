@@ -30,3 +30,5 @@ amanda = Universitario(nome='Amanda', idade=25, nota=10.0)
 print(joao) # Imprimindo a tupla joao
 print(amanda.nome) # Imprimindo o valor "nome" da tupla amanda
 print(amanda.nota) # Imprimindo a nota da tupla amanda
+
+#Teste
